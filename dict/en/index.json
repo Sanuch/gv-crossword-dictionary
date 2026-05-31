@@ -1,0 +1,171 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-05-31",
+  "language": "en",
+  "label": "English",
+  "dictionaries": [
+    {
+      "id": "beasties",
+      "name": "Beasties",
+      "path": "dict/en/beasties.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/beasties.txt",
+      "count": 121,
+      "sha256": "c080638d1b966a6ac632a792ea34f6d5e353bd0decff42e24293f2d437fd3d4d",
+      "aliases": [
+        "beast",
+        "beastie",
+        "animal",
+        "pet"
+      ],
+      "description": "Beasties"
+    },
+    {
+      "id": "dungeon.boss",
+      "name": "Dungeon Bosses",
+      "path": "dict/en/dungeon.boss.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/dungeon.boss.txt",
+      "count": 83,
+      "sha256": "507ff1b7c1fb1e440d2f4ef1d6421df2397083eee5d9f2df6206e697b5072772",
+      "aliases": [
+        "dungeon boss",
+        "boss"
+      ],
+      "description": "Dungeon Bosses"
+    },
+    {
+      "id": "equipments",
+      "name": "Equipment",
+      "path": "dict/en/equipments.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/equipments.txt",
+      "count": 1607,
+      "sha256": "2a57e427d367b23bbf4e0aae32c0a097ed61ff67eb025f4e916428cc64ea196f",
+      "aliases": [
+        "equipment",
+        "gear",
+        "artifact"
+      ],
+      "description": "Equipment"
+    },
+    {
+      "id": "items.bold",
+      "name": "Bold Items",
+      "path": "dict/en/items.bold.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/items.bold.txt",
+      "count": 506,
+      "sha256": "0dc663e17f93d844de92821f39943aeb5f6c324646585e9a4efa01ae2792c760",
+      "aliases": [
+        "bold item",
+        "bold trophy",
+        "fat trophy"
+      ],
+      "description": "Bold Items"
+    },
+    {
+      "id": "items.heal",
+      "name": "Healing Items",
+      "path": "dict/en/items.heal.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/items.heal.txt",
+      "count": 57,
+      "sha256": "11a11579c2ca69cd41a3b5a47a8e817ac524ddcde25274940402b15dc41d1a41",
+      "aliases": [
+        "healing item",
+        "heal item",
+        "medicine"
+      ],
+      "description": "Healing Items"
+    },
+    {
+      "id": "items",
+      "name": "Items",
+      "path": "dict/en/items.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/items.txt",
+      "count": 4148,
+      "sha256": "ef11f4ee819b470a834812d9b1252f0166d6e5fc39756d6ec5b7d67efaeead81",
+      "aliases": [
+        "item",
+        "trophy",
+        "loot"
+      ],
+      "description": "Items"
+    },
+    {
+      "id": "monsters.bosses",
+      "name": "Boss Monsters",
+      "path": "dict/en/monsters.bosses.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/monsters.bosses.txt",
+      "count": 119,
+      "sha256": "665b724b0bcf4bc2aeabb45c1f50b4c90d03ad3146b5f6a29e42af1ecdfb200a",
+      "aliases": [
+        "boss monster",
+        "boss"
+      ],
+      "description": "Boss Monsters"
+    },
+    {
+      "id": "monsters.strong",
+      "name": "Strong Monsters",
+      "path": "dict/en/monsters.strong.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/monsters.strong.txt",
+      "count": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+      "aliases": [
+        "strong monster",
+        "powerful monster"
+      ],
+      "description": "Strong Monsters"
+    },
+    {
+      "id": "monsters",
+      "name": "Monsters",
+      "path": "dict/en/monsters.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/monsters.txt",
+      "count": 2512,
+      "sha256": "5bbdf49e5584edd9612123baa5de06f973f8e5eb72c29e4905f37efe5f1084b8",
+      "aliases": [
+        "monster",
+        "enemy"
+      ],
+      "description": "Monsters"
+    },
+    {
+      "id": "place",
+      "name": "Places",
+      "path": "dict/en/place.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/place.txt",
+      "count": 70,
+      "sha256": "553c6c8507b01eb241f2a9a69b7de16b117bf08057848c7290b964c2f39a1645",
+      "aliases": [
+        "place",
+        "location",
+        "terrain"
+      ],
+      "description": "Places"
+    },
+    {
+      "id": "skills",
+      "name": "Skills",
+      "path": "dict/en/skills.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/skills.txt",
+      "count": 127,
+      "sha256": "c1d1a5413228f616ad602f7182d7864ccb042e7c75d051241d1c7d79aed429c6",
+      "aliases": [
+        "skill",
+        "ability"
+      ],
+      "description": "Skills"
+    },
+    {
+      "id": "towns",
+      "name": "Towns",
+      "path": "dict/en/towns.txt",
+      "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/towns.txt",
+      "count": 33,
+      "sha256": "b7206bfb6e41801c578330b40c9fe88813e9fc2ad272a180dc6c317c675072cd",
+      "aliases": [
+        "town",
+        "city"
+      ],
+      "description": "Towns"
+    }
+  ]
+}

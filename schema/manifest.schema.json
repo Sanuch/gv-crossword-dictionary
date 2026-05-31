@@ -1,0 +1,39 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Crossword Dictionaries Manifest",
+  "type": "object",
+  "required": ["version", "updatedAt", "baseUrl", "languages"],
+  "properties": {
+    "version": { "type": "string" },
+    "updatedAt": { "type": "string" },
+    "baseUrl": { "type": "string" },
+    "languages": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "object",
+        "required": ["label", "indexPath", "dictionaries"],
+        "properties": {
+          "label": { "type": "string" },
+          "indexPath": { "type": "string" },
+          "dictionaries": {
+            "type": "array",
+            "items": {
+              "type": "object",
+              "required": ["id", "name", "path", "url", "count", "sha256", "aliases"],
+              "properties": {
+                "id": { "type": "string" },
+                "name": { "type": "string" },
+                "path": { "type": "string" },
+                "url": { "type": "string" },
+                "count": { "type": "integer", "minimum": 0 },
+                "sha256": { "type": "string", "pattern": "^[a-f0-9]{64}$" },
+                "aliases": { "type": "array", "items": { "type": "string" } },
+                "description": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
