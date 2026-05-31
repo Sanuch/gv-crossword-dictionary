@@ -1,18 +1,18 @@
 {
   "version": "1.0.0",
   "updatedAt": "2026-05-31",
-  "baseUrl": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main",
+  "baseUrl": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main",
   "languages": {
     "en": {
       "label": "English",
       "indexPath": "dict/en/index.json",
-      "indexUrl": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/index.json",
+      "indexUrl": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/index.json",
       "dictionaries": [
         {
           "id": "beasties",
           "name": "Beasties",
           "path": "dict/en/beasties.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/beasties.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/beasties.txt",
           "count": 121,
           "sha256": "c080638d1b966a6ac632a792ea34f6d5e353bd0decff42e24293f2d437fd3d4d",
           "aliases": [
@@ -27,7 +27,7 @@
           "id": "dungeon.boss",
           "name": "Dungeon Bosses",
           "path": "dict/en/dungeon.boss.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/dungeon.boss.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/dungeon.boss.txt",
           "count": 83,
           "sha256": "507ff1b7c1fb1e440d2f4ef1d6421df2397083eee5d9f2df6206e697b5072772",
           "aliases": [
@@ -40,7 +40,7 @@
           "id": "equipments",
           "name": "Equipment",
           "path": "dict/en/equipments.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/equipments.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/equipments.txt",
           "count": 1607,
           "sha256": "2a57e427d367b23bbf4e0aae32c0a097ed61ff67eb025f4e916428cc64ea196f",
           "aliases": [
@@ -54,7 +54,7 @@
           "id": "items.bold",
           "name": "Bold Items",
           "path": "dict/en/items.bold.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/items.bold.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.bold.txt",
           "count": 506,
           "sha256": "0dc663e17f93d844de92821f39943aeb5f6c324646585e9a4efa01ae2792c760",
           "aliases": [
@@ -68,7 +68,7 @@
           "id": "items.heal",
           "name": "Healing Items",
           "path": "dict/en/items.heal.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/items.heal.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.heal.txt",
           "count": 57,
           "sha256": "11a11579c2ca69cd41a3b5a47a8e817ac524ddcde25274940402b15dc41d1a41",
           "aliases": [
@@ -82,7 +82,7 @@
           "id": "items",
           "name": "Items",
           "path": "dict/en/items.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/items.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.txt",
           "count": 4148,
           "sha256": "ef11f4ee819b470a834812d9b1252f0166d6e5fc39756d6ec5b7d67efaeead81",
           "aliases": [
@@ -96,7 +96,7 @@
           "id": "monsters.bosses",
           "name": "Boss Monsters",
           "path": "dict/en/monsters.bosses.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/monsters.bosses.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/monsters.bosses.txt",
           "count": 119,
           "sha256": "665b724b0bcf4bc2aeabb45c1f50b4c90d03ad3146b5f6a29e42af1ecdfb200a",
           "aliases": [
@@ -109,7 +109,7 @@
           "id": "monsters.strong",
           "name": "Strong Monsters",
           "path": "dict/en/monsters.strong.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/monsters.strong.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/monsters.strong.txt",
           "count": 0,
           "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "aliases": [
@@ -122,7 +122,7 @@
           "id": "monsters",
           "name": "Monsters",
           "path": "dict/en/monsters.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/monsters.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/monsters.txt",
           "count": 2512,
           "sha256": "5bbdf49e5584edd9612123baa5de06f973f8e5eb72c29e4905f37efe5f1084b8",
           "aliases": [
@@ -135,7 +135,7 @@
           "id": "place",
           "name": "Places",
           "path": "dict/en/place.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/place.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/place.txt",
           "count": 70,
           "sha256": "553c6c8507b01eb241f2a9a69b7de16b117bf08057848c7290b964c2f39a1645",
           "aliases": [
@@ -149,7 +149,7 @@
           "id": "skills",
           "name": "Skills",
           "path": "dict/en/skills.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/skills.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/skills.txt",
           "count": 127,
           "sha256": "c1d1a5413228f616ad602f7182d7864ccb042e7c75d051241d1c7d79aed429c6",
           "aliases": [
@@ -162,7 +162,7 @@
           "id": "towns",
           "name": "Towns",
           "path": "dict/en/towns.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/en/towns.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/towns.txt",
           "count": 33,
           "sha256": "b7206bfb6e41801c578330b40c9fe88813e9fc2ad272a180dc6c317c675072cd",
           "aliases": [
@@ -176,13 +176,13 @@
     "ru": {
       "label": "Русский",
       "indexPath": "dict/ru/index.json",
-      "indexUrl": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/index.json",
+      "indexUrl": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/index.json",
       "dictionaries": [
         {
           "id": "beasties",
           "name": "Животные",
           "path": "dict/ru/beasties.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/beasties.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/beasties.txt",
           "count": 238,
           "sha256": "2a8352aa80b9d105280232feb89e9045839dd0746a1ad0f8fbbd562897daa321",
           "aliases": [
@@ -197,7 +197,7 @@
           "id": "dungeon.boss",
           "name": "Подземные боссы",
           "path": "dict/ru/dungeon.boss.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/dungeon.boss.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/dungeon.boss.txt",
           "count": 102,
           "sha256": "2d0e772fcf95e9126604b22eca3c5a11f869ade1c5a222cf6aa4dae4fad256c4",
           "aliases": [
@@ -211,7 +211,7 @@
           "id": "equipments",
           "name": "Снаряжение",
           "path": "dict/ru/equipments.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/equipments.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/equipments.txt",
           "count": 2099,
           "sha256": "ec9bb4ed88159f4f7725f1c925ecabeecfb6c0ceca4764b698272403f9208288",
           "aliases": [
@@ -225,7 +225,7 @@
           "id": "items.bold",
           "name": "Жирные трофеи",
           "path": "dict/ru/items.bold.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/items.bold.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/items.bold.txt",
           "count": 635,
           "sha256": "efbca7b956a0812b48abfcfa877f3453128bc6e6e9c4b30a0f1b3dcbf0ce7c35",
           "aliases": [
@@ -238,7 +238,7 @@
           "id": "items.heal",
           "name": "Лечебные предметы",
           "path": "dict/ru/items.heal.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/items.heal.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/items.heal.txt",
           "count": 144,
           "sha256": "5ac57e0868d35f3cf4d2a393a845981559caf2f1b6cbb56a210e353475d7dd82",
           "aliases": [
@@ -252,7 +252,7 @@
           "id": "items",
           "name": "Трофеи",
           "path": "dict/ru/items.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/items.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/items.txt",
           "count": 6350,
           "sha256": "98a5cad1c3cba1bac4fa4391d3e7cdfef9752f68df411fe41dbc16bb82f9f26f",
           "aliases": [
@@ -266,7 +266,7 @@
           "id": "monsters.bosses",
           "name": "Боссы",
           "path": "dict/ru/monsters.bosses.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/monsters.bosses.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/monsters.bosses.txt",
           "count": 157,
           "sha256": "13ff17272e66fbe4939612f15e737d2cfac864c920d7208e943e8fc8fcc59324",
           "aliases": [
@@ -280,7 +280,7 @@
           "id": "monsters.strong",
           "name": "Сильные монстры",
           "path": "dict/ru/monsters.strong.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/monsters.strong.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/monsters.strong.txt",
           "count": 0,
           "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
           "aliases": [
@@ -293,7 +293,7 @@
           "id": "monsters",
           "name": "Монстры",
           "path": "dict/ru/monsters.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/monsters.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/monsters.txt",
           "count": 3427,
           "sha256": "95a3ab2cb3277ddfad9db30eb4e4ce56b1d70e719d303b30451d8e11ca9ee317",
           "aliases": [
@@ -306,7 +306,7 @@
           "id": "place",
           "name": "Места",
           "path": "dict/ru/place.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/place.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/place.txt",
           "count": 382,
           "sha256": "892782f12a4e8ae6295934111abdd39378b50579fb23c1b913b69ba4f771ee8f",
           "aliases": [
@@ -320,7 +320,7 @@
           "id": "skills",
           "name": "Умения",
           "path": "dict/ru/skills.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/skills.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/skills.txt",
           "count": 273,
           "sha256": "c890c35b95d46d52a175692245a8a21303460527ba55f960409bdc94d9ce778b",
           "aliases": [
@@ -334,7 +334,7 @@
           "id": "towns",
           "name": "Города",
           "path": "dict/ru/towns.txt",
-          "url": "https://raw.githubusercontent.com/oivashchenko/crossword_dict/main/dict/ru/towns.txt",
+          "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/towns.txt",
           "count": 46,
           "sha256": "805d8bf08f81d3aa52ed09510bd02a749c333bb0fa10d80f7710e47c1e987ce3",
           "aliases": [
