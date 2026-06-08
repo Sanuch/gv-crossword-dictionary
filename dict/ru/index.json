@@ -120,8 +120,8 @@
       "name": "Монстры",
       "path": "dict/ru/monsters.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/monsters.txt",
-      "count": 3427,
-      "sha256": "95a3ab2cb3277ddfad9db30eb4e4ce56b1d70e719d303b30451d8e11ca9ee317",
+      "count": 3428,
+      "sha256": "b618c7eba7d19c65688338c3541f42d822ecf6224df75ebca366b58ccc79994a",
       "aliases": [
         "монстр",
         "враг"
