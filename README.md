@@ -47,7 +47,7 @@ This updates:
 By default generated URLs use:
 
 ```text
-https://raw.githubusercontent.com/oivashchenko/crossword_dict/main
+https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main
 ```
 
 Override it when generating metadata for another repository:
