@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-15",
   "baseUrl": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main",
   "languages": {
     "en": {
@@ -212,8 +212,8 @@
           "name": "Снаряжение",
           "path": "dict/ru/equipments.txt",
           "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/equipments.txt",
-          "count": 2101,
-          "sha256": "089cc485a48fbaefa863c887344550551fba325f1969dd5fc8cead2f677bfed6",
+          "count": 2102,
+          "sha256": "ff802d272d26d287c6515b4013c05c31d563cc8cc33256b68f55e66623936ed7",
           "aliases": [
             "снаряжение",
             "экипировка",
