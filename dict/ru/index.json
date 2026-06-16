@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-15",
+  "updatedAt": "2026-06-16",
   "language": "ru",
   "label": "Русский",
   "dictionaries": [
@@ -9,8 +9,8 @@
       "name": "Животные",
       "path": "dict/ru/beasties.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/beasties.txt",
-      "count": 238,
-      "sha256": "2a8352aa80b9d105280232feb89e9045839dd0746a1ad0f8fbbd562897daa321",
+      "count": 239,
+      "sha256": "426d2f6be7f4438decc97c4b8f9f320655db583f480e1bd3dec36f862ed7f054",
       "aliases": [
         "животное",
         "зверь",
