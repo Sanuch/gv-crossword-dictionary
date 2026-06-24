@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-06-22",
+  "updatedAt": "2026-06-24",
   "baseUrl": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main",
   "languages": {
     "en": {
@@ -83,8 +83,8 @@
           "name": "Items",
           "path": "dict/en/items.txt",
           "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.txt",
-          "count": 4148,
-          "sha256": "ef11f4ee819b470a834812d9b1252f0166d6e5fc39756d6ec5b7d67efaeead81",
+          "count": 4149,
+          "sha256": "16a4ce293ce6521dd407daa98ef34f153daaa0987d9c56c56871b174cfec2795",
           "aliases": [
             "item",
             "trophy",
