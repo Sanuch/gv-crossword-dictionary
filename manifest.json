@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-09",
   "baseUrl": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main",
   "languages": {
     "en": {
@@ -294,8 +294,8 @@
           "name": "Монстры",
           "path": "dict/ru/monsters.txt",
           "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/monsters.txt",
-          "count": 3429,
-          "sha256": "793521a35278198b1fb126feb5e834826062da7a70b2a8c9424629a85bd7bbe9",
+          "count": 3430,
+          "sha256": "2ac258dc4733f4f279f7b456f07e4dfeb658bf27ce614ae447d445c764096013",
           "aliases": [
             "монстр",
             "враг"
