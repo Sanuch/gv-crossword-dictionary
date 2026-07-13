@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-07-09",
+  "updatedAt": "2026-07-13",
   "language": "ru",
   "label": "Русский",
   "dictionaries": [
@@ -133,8 +133,8 @@
       "name": "Места",
       "path": "dict/ru/place.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/place.txt",
-      "count": 382,
-      "sha256": "892782f12a4e8ae6295934111abdd39378b50579fb23c1b913b69ba4f771ee8f",
+      "count": 383,
+      "sha256": "6923802cb3e95bc2b28c73013d568f1bb32d623730ad14389218f0d512fe1d61",
       "aliases": [
         "место",
         "местность",
