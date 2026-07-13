@@ -38,8 +38,8 @@
       "name": "Снаряжение",
       "path": "dict/ru/equipments.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/ru/equipments.txt",
-      "count": 2110,
-      "sha256": "4aee9c7eee9c683f7cf22fc0e8b9457f98c52eb3955c79b691c727b7dfdd642b",
+      "count": 2112,
+      "sha256": "03894d59e57a6e0bba38531f77ebbd1a41405b77abec19fed1f8f45d391eeceb",
       "aliases": [
         "снаряжение",
         "экипировка",
