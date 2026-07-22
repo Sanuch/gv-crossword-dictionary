@@ -64,6 +64,40 @@ npm run validate
 
 Validation checks dictionary formatting, manifest counts, file hashes and language indexes.
 
+## Check Erinome for new words
+
+The checker reads the local files from `dict/`, downloads the corresponding Erinome pages and reports entries that are missing locally. It does not modify dictionary files.
+
+Check the supplied example page from the local fixture:
+
+```bash
+npm run check:erinome -- --source ../erinome.html --lang ru --type equipments --letter О
+```
+
+Check the same page over HTTP:
+
+```bash
+npm run check:erinome -- --url 'https://gv.erinome.net/db?type=3&lang=ru&letter=%D0%9E'
+```
+
+Run a full Russian check and save a machine-readable report:
+
+```bash
+npm run check:erinome -- --lang ru --delay 1 --output var/erinome-report.json
+```
+
+The checker supports `--type` values `0..7` or names such as `equipments`, `monsters`, and `artifacts`. For CI, `--fail-on-new` returns exit code `1` when at least one new word is found; HTTP or parsing errors return exit code `2`.
+
+Apply checked reports to the dictionaries:
+
+```bash
+npm run apply:erinome -- \
+  --report var/erinome-report-ru.json \
+  --report var/erinome-report-en.json
+```
+
+Use `--dry-run` to preview the number of additions without changing files.
+
 ## Consumption
 
 Root manifest:

@@ -37,8 +37,8 @@
       "name": "Equipment",
       "path": "dict/en/equipments.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/equipments.txt",
-      "count": 1607,
-      "sha256": "2a57e427d367b23bbf4e0aae32c0a097ed61ff67eb025f4e916428cc64ea196f",
+      "count": 1656,
+      "sha256": "b09dbdacaeb4813c7bb263f5c049c60edb67f0d63475f995b149b02fe44eeefd",
       "aliases": [
         "equipment",
         "gear",
@@ -51,8 +51,8 @@
       "name": "Bold Items",
       "path": "dict/en/items.bold.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.bold.txt",
-      "count": 506,
-      "sha256": "0dc663e17f93d844de92821f39943aeb5f6c324646585e9a4efa01ae2792c760",
+      "count": 616,
+      "sha256": "4f6c77f14034415b40a9f9c75bf3193f1b63563a200acc49e6f362ca16106756",
       "aliases": [
         "bold item",
         "bold trophy",
@@ -65,8 +65,8 @@
       "name": "Healing Items",
       "path": "dict/en/items.heal.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.heal.txt",
-      "count": 57,
-      "sha256": "11a11579c2ca69cd41a3b5a47a8e817ac524ddcde25274940402b15dc41d1a41",
+      "count": 73,
+      "sha256": "27a83f642de2f3f6e4e7b68f1e849f08f7afa0fd7024a6d8a5e2c5c1608a3d1b",
       "aliases": [
         "healing item",
         "heal item",
@@ -79,8 +79,8 @@
       "name": "Items",
       "path": "dict/en/items.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/items.txt",
-      "count": 4149,
-      "sha256": "16a4ce293ce6521dd407daa98ef34f153daaa0987d9c56c56871b174cfec2795",
+      "count": 4172,
+      "sha256": "6abf6a6dd65d245e76c3c557a5ba1ceeb0d9df328b91b49e473bdb8f3946298b",
       "aliases": [
         "item",
         "trophy",
@@ -93,8 +93,8 @@
       "name": "Boss Monsters",
       "path": "dict/en/monsters.bosses.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/monsters.bosses.txt",
-      "count": 119,
-      "sha256": "665b724b0bcf4bc2aeabb45c1f50b4c90d03ad3146b5f6a29e42af1ecdfb200a",
+      "count": 122,
+      "sha256": "14f89ca4b447f8bd79baf32bfe5272eb135355e33accedc726081addef76cac2",
       "aliases": [
         "boss monster",
         "boss"
@@ -119,8 +119,8 @@
       "name": "Monsters",
       "path": "dict/en/monsters.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/monsters.txt",
-      "count": 2512,
-      "sha256": "5bbdf49e5584edd9612123baa5de06f973f8e5eb72c29e4905f37efe5f1084b8",
+      "count": 2603,
+      "sha256": "11f9968b26e11cb88804ba8b94e6114605c7b678353e4acee0644318de3bcc5d",
       "aliases": [
         "monster",
         "enemy"
@@ -132,8 +132,8 @@
       "name": "Places",
       "path": "dict/en/place.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/place.txt",
-      "count": 70,
-      "sha256": "553c6c8507b01eb241f2a9a69b7de16b117bf08057848c7290b964c2f39a1645",
+      "count": 111,
+      "sha256": "780ec479cdd575dfb807d5f1d4afc2f22ee76f0263e87248b378075a398c61e4",
       "aliases": [
         "place",
         "location",
@@ -146,8 +146,8 @@
       "name": "Skills",
       "path": "dict/en/skills.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/skills.txt",
-      "count": 127,
-      "sha256": "c1d1a5413228f616ad602f7182d7864ccb042e7c75d051241d1c7d79aed429c6",
+      "count": 132,
+      "sha256": "6e064ee664fa26e1260a8422be30c2d6c3c5989ecfeeabc10f1ba0a2aeded906",
       "aliases": [
         "skill",
         "ability"
@@ -159,8 +159,8 @@
       "name": "Towns",
       "path": "dict/en/towns.txt",
       "url": "https://raw.githubusercontent.com/Sanuch/gv-crossword-dictionary/main/dict/en/towns.txt",
-      "count": 33,
-      "sha256": "b7206bfb6e41801c578330b40c9fe88813e9fc2ad272a180dc6c317c675072cd",
+      "count": 36,
+      "sha256": "c99e63a0f11dc0b35c45b2b20e06a2c645a76a50b227eb45812ee73ad0a06da0",
       "aliases": [
         "town",
         "city"

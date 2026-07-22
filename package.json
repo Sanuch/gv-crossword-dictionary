@@ -4,6 +4,8 @@
   "private": true,
   "type": "module",
   "scripts": {
+    "apply:erinome": "node tools/apply-erinome-report.mjs",
+    "check:erinome": "node tools/check-erinome.mjs",
     "generate": "node tools/generate-manifest.mjs",
     "validate": "node tools/validate.mjs"
   }
